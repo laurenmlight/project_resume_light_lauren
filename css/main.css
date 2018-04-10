@@ -8,6 +8,8 @@
 body {
     font-family: 'Mada', sans-serif;
     color: #58585b;
+    font-size: 1.1rem;
+    line-height: 1.4rem;
 }
 
 #container {
@@ -57,6 +59,7 @@ nav ul li {
 }
 
 /****************** MAIN ***********************/
+
 h2 {
     text-transform: uppercase;
     font-size: 1.2rem;
@@ -66,6 +69,12 @@ h2 {
     padding: 4% 2% 1% 2%;
     margin-top: 25%;
     font-weight: 200;
+}
+
+article {
+    width: 90%;
+    margin: auto;
+    padding-top: 3%;
 }
 
 /******************** DESKTOP ********************/
@@ -90,5 +99,9 @@ h2 {
         display: inline;
         font-size: 1rem;
         text-align: center;
+    }
+
+    article {
+        width: 65%;
     }
 }
