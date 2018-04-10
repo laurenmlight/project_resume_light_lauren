@@ -82,6 +82,8 @@ article {
     width: 90%;
     margin: auto;
     padding-top: 3%;
+    border-color: #e1e7ec;
+    border-bottom-style: solid;
 }
 
 .jobtitle {
