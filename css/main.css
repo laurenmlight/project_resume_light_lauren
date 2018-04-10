@@ -3,13 +3,32 @@
 	src: url('../fonts/Avenir Next.ttc') format('truetype');
 }
 
+/***************** PAGE STARTS ***************/
+
 body {
     font-family: 'Avenir Next.ttc', sans-serif;
 }
-
 
 #container {
     max-width: 750px;
     display: block;
     margin: auto;
 }
+
+
+/********************* NAV *********************/
+
+
+
+
+
+
+/****************** MAIN ****** ****************/
+h2 {
+
+}
+
+
+
+
+/******************** DESKTOP ********************/
