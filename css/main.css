@@ -8,8 +8,9 @@
 body {
     font-family: 'Mada', sans-serif;
     color: #58585b;
-    font-size: 1.1rem;
-    line-height: 1.4rem;
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    font-weight: 300;
 }
 
 #container {
@@ -20,7 +21,7 @@ body {
 
 a {
     text-decoration: none;
-    color: #231f20;
+    color: #58585b;
 }
 
 a:hover {
@@ -48,9 +49,10 @@ nav {
 	padding: 5% 1%;
     font-size: 1.5rem;
     margin-top: 5%;
+    font-weight: 400;
 }
 
-nav ul {
+ul {
     list-style-type: none;
 }
 
@@ -71,10 +73,19 @@ h2 {
     font-weight: 200;
 }
 
+h3 {
+    font-weight: 400;
+    font-size: 1.4rem;
+}
+
 article {
     width: 90%;
     margin: auto;
     padding-top: 3%;
+}
+
+.jobtitle {
+    font-style: italic;
 }
 
 /******************** DESKTOP ********************/
