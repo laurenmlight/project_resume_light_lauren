@@ -6,7 +6,7 @@
 /***************** PAGE STARTS ***************/
 
 body {
-    font-family: 'Avenir.ttc', sans-serif;
+    font-family: 'Mada', sans-serif;
     color: #58585b;
 }
 
@@ -31,6 +31,7 @@ a:hover {
 h1 {
     text-align: center;
     padding: 10% 0 0 0;
+    font-weight: 200;
 }
 
 header p {
@@ -63,6 +64,7 @@ h2 {
     background-color: #e1e7ec;
     padding: 4% 2% 1% 2%;
     margin-top: 25%;
+    font-weight: 200;
 }
 
 /******************** DESKTOP ********************/
