@@ -30,7 +30,7 @@ a:hover {
 
 h1 {
     text-align: center;
-    padding: 10% 0 5% 0;
+    padding: 10% 0 0 0;
 }
 
 header p {
@@ -43,6 +43,7 @@ nav {
 	letter-spacing: 1px;
 	padding: 5% 1%;
     font-size: 1.5rem;
+    margin-top: 5%;
 }
 
 nav ul {
@@ -67,13 +68,14 @@ h2 {
 /******************** DESKTOP ********************/
 
 
-@media (min-width: 400px) {
+@media (min-width: 500px) {
 
     nav {
-        padding: 5% 0;
+        padding: 3% 0;
     }
 	nav ul li {
         display: inline;
         font-size: 1rem;
+        text-align: center;
     }
 }
