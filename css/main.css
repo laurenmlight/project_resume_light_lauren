@@ -19,6 +19,11 @@ body {
     margin: auto;
 }
 
+p {
+    -webkit-margin-before: .5rem;
+    -webkit-margin-after: 1rem;
+}
+
 a {
     text-decoration: none;
     color: #58585b;
