@@ -1,12 +1,12 @@
 @font-face {
-	font-family: 'Avenir Next.ttc';
-	src: url('../fonts/Avenir Next.ttc') format('truetype');
+	font-family: 'Avenir.ttc';
+	src: url('../fonts/Avenir.ttc') format('truetype');
 }
 
 /***************** PAGE STARTS ***************/
 
 body {
-    font-family: 'Avenir Next.ttc', sans-serif;
+    font-family: 'Avenir.ttc', sans-serif;
 }
 
 #container {
