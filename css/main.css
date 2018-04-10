@@ -71,14 +71,21 @@ h2 {
 /******************** DESKTOP ********************/
 
 
-@media (min-width: 500px) {
+@media (min-width: 630px) {
 
     h1 {
         padding: 30% 0 0 0;
     }
+
     nav {
         padding: 3% 0;
+        text-align: center;
     }
+
+    nav ul {
+        padding-left: 0;
+    }
+
 	nav ul li {
         display: inline;
         font-size: 1rem;
