@@ -41,6 +41,8 @@ h1 {
     padding: 10% 0 0 0;
     font-weight: 200;
     letter-spacing: .1rem;
+    border-color: #e1e7ec;
+    border-bottom-style: solid;
 }
 
 header p {
@@ -122,7 +124,7 @@ article {
 @media (min-width: 760px) {
 
     h1 {
-        padding: 30% 0 0 0;
+        padding: 30% 0 7% 0;
     }
 
     nav {
