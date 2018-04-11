@@ -103,20 +103,12 @@ article {
     border-bottom-style: solid;
 }
 
-.description {
-    clear: both;
-}
-
 .jobtitle {
     font-style: italic;
-    display: inline;
-    float: left;
 }
 
 .date {
-    display: inline;
     font-weight: 400;
-    float: right;
 }
 
 /******************** DESKTOP ********************/
@@ -141,10 +133,23 @@ article {
         display: inline;
         font-size: 1rem;
         text-align: center;
-
     }
 
     article {
         width: 65%;
+    }
+
+    .description {
+        clear: both;
+    }
+
+    .jobtitle {
+        display: inline;
+        float: left;
+    }
+
+    .date {
+        display: inline;
+        float: right;
     }
 }
