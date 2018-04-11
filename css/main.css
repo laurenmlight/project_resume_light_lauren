@@ -20,8 +20,8 @@ body {
 }
 
 p {
-    -webkit-margin-before: .5rem;
-    -webkit-margin-after: 1rem;
+    -webkit-margin-before: .3rem;
+    -webkit-margin-after: .3rem;
 }
 
 a {
@@ -106,10 +106,16 @@ article {
 .jobtitle {
     font-style: italic;
     color: #657fa0;
+    padding-top:
 }
 
 .date {
     font-weight: 400;
+}
+
+.description {
+    padding-top: 2%;
+    padding-bottom: 5%;
 }
 
 /******************** DESKTOP ********************/
