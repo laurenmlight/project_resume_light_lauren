@@ -94,8 +94,20 @@ article {
     border-bottom-style: solid;
 }
 
+.description {
+    clear: both;
+}
+
 .jobtitle {
     font-style: italic;
+    display: inline;
+    float: left;
+}
+
+.date {
+    display: inline;
+    font-weight: 400;
+    float: right;
 }
 
 /******************** DESKTOP ********************/
