@@ -8,6 +8,7 @@ $(document).ready(function() {
 
     var scroll = new SmoothScroll('a[href*="#"]');
 
+//Add floral background when hovering over h1
     $("h1").hover(function(){
         $(this).addClass( "floral" );
     }, function() {
