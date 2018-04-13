@@ -123,14 +123,14 @@ article {
     display: block;
 }
 
-.footernav {
+.arrow {
     font-size: 3rem;
     display: block;
     text-align: center;
     padding-top: 5%;
 }
 
-.footernav:hover {
+.arrow:hover {
     text-decoration: none;
 }
 /******************** DESKTOP ********************/
