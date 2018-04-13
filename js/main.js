@@ -3,3 +3,5 @@ $('section').verticalDotNav({
 		dot_color: "#58585b",
 		nav_color: "#e1e7ec"
 	});
+
+var scroll = new SmoothScroll('a[href*="#"]');
