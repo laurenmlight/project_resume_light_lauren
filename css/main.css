@@ -66,9 +66,12 @@ nav {
 	padding: 5% 1%;
     font-size: 1.5rem;
     margin-top: 5%;
-    font-weight: 300;
     text-transform: uppercase;
     letter-spacing: .1rem;
+}
+
+nav a {
+    font-weight: 400;
 }
 
 ul {
