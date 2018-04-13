@@ -118,6 +118,13 @@ article {
     padding-bottom: 5%;
 }
 
+#footernav {
+    font-size: 3rem;
+}
+
+#footernav:hover {
+    text-decoration: none;
+}
 /******************** DESKTOP ********************/
 
 
