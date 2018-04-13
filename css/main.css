@@ -129,6 +129,15 @@ article {
     text-decoration: none;
 }
 
+#skills {
+    background-image: url("../img/gray-floral.png");
+}
+
+
+#work, #leadership {
+    background-color: #f9fafc;
+}
+
 /******************** FOOTER ********************/
 
 #photo {
