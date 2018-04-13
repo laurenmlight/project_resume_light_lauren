@@ -45,6 +45,10 @@ h1 {
     border-bottom-style: solid;
 }
 
+.floral {
+    background-image: url("../img/gray-floral.png");
+}
+
 header p {
     text-align: center;
     font-size: 1rem;

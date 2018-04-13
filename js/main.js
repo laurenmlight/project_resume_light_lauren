@@ -8,4 +8,10 @@ $(document).ready(function() {
 
     var scroll = new SmoothScroll('a[href*="#"]');
 
+    $("h1").hover(function(){
+        $(this).addClass( "floral" );
+    }, function() {
+        $( this ).removeClass( "floral" );
+    });
+
 });
