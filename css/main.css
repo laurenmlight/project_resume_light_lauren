@@ -36,6 +36,8 @@ a:hover {
 
 /********************* HEADER *********************/
 
+
+
 h1 {
     text-align: center;
     padding: 10% 0 0 0;
@@ -136,6 +138,24 @@ article {
 
 .arrow:hover {
     text-decoration: none;
+}
+#photo {
+    width: 150px;
+    opacity: .9;
+    display: block;
+    border: 2px;
+    margin: auto;
+    margin-top: 5%;
+    border-style: solid;
+    border-color: #e1e7ec;
+
+}
+
+#salutation {
+    font-size: 2.5rem;
+    line-height: 2.2rem;
+    padding: 5%;
+    text-align: center;
 }
 /******************** DESKTOP ********************/
 
